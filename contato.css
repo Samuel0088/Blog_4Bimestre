@@ -1,0 +1,26 @@
+.borda {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#entre_em_contato {
+    margin-top: 30px;
+}
+
+@media (min-width: 481px) and (max-width: 900px) {
+
+    #entre_em_contato {
+        margin-top: 30px;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+
+    #contato {
+        font-size: 20px;
+    }   
+
+    main {
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+}
